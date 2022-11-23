@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jessnmo
+- 👋 Hi, I’m Jessica, currently studying at Technigo frontend bootcamp, with passion with coding, problem solving and providing accessibilty to as many people, hope to become your next colleague! 
 - 🌱 Upcoming Frontend developer trying to learn as much as possible at Technigo Bootcamp
 
 <!---
