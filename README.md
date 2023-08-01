@@ -11,7 +11,7 @@
 
 - ✨ Some highlighted projects are available at [jessicamo.com](jessicamo.com)
 
-- 👩‍💻 Ask me about **React Native**
+- 👩‍💻 Currently learning **React Native**
 
 - 📫 How to reach me **jessicamo92@gmail.com**
 
