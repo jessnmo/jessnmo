@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything React related!**
 
-- ✨ Some highlighted projects are available at jessicamo.com
+- ✨ Some highlighted projects are available at **https://jessicamo.com**
 
 - 👩‍💻 Currently learning **React Native**
 
