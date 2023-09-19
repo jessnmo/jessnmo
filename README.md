@@ -11,7 +11,7 @@
 
 - ✨ Some highlighted projects are available at **https://jessicamo.com**
 
-- 👩‍💻 Currently learning **React Native**
+- 👩‍💻 Currently learning **TypeScript**
 
 - 📫 How to reach me **jessicamo92@gmail.com**
 
