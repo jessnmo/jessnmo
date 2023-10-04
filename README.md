@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessnmo&label=Profile%20views&color=0e75b6&style=flat" alt="jessnmo" /> </p>
 
 
-- 🔭 I’m currently working on [hotel-booking-backend](https://github.com/jessnmo/hotel-booking-backend)
+- 🔭 I’m currently working on [todo list with react and typescript to learn typescript](https://github.com/jessnmo/Todo-List-with-TypeScript)
 
 - 👯 I’m looking to collaborate on **anything React related!**
 
