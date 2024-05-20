@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessnmo&label=Profile%20views&color=0e75b6&style=flat" alt="jessnmo" /> </p>
 
 
-- 🔭 I’m currently working on [react_dashboards to learn material UI](https://github.com/jessnmo/react_dashboard)
+- 🔭 I’m currently working on [my own recipes generator to fight against food waste]
 
 - 👯 I’m looking to collaborate on **anything React related!**
 
@@ -16,8 +16,6 @@
 - 📫 How to reach me **jessicamo92@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jessica-mo-29508a85/](https://www.linkedin.com/in/jessica-mo-29508a85/)
-
-- ⚡ Fun fact **love weight training**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
