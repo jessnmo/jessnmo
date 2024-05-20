@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessnmo&label=Profile%20views&color=0e75b6&style=flat" alt="jessnmo" /> </p>
 
 
-- 🔭 I’m currently working on [my own recipes generator to fight against food waste]
+- 🔭 I’m currently working on my own recipes generator to fight against food waste
 
 - 👯 I’m looking to collaborate on **anything React related!**
 
