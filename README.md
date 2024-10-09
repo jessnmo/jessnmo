@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
-<h3 align="center">A passionate frontend developer from Amsterdam</h3>
+<h3 align="center">.NET developer from Amsterdam</h3>
 <img align="right" alt="CodingImg" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessnmo&label=Profile%20views&color=0e75b6&style=flat" alt="jessnmo" /> </p>
@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on my own recipes generator to fight against food waste
 
-- 👯 I’m looking to collaborate on **anything React related!**
-
-- ✨ Some highlighted projects are available at **https://jessicamo.com**
-
-- 👩‍💻 Currently learning **TypeScript**
+- 👩‍💻 Currently learning and finetuning **C#**
 
 - 📫 How to reach me **jessicamo92@gmail.com**
 
