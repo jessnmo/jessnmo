@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on my own recipes generator to fight against food waste
 
-- 👩‍💻 Currently learning and finetuning **C#**
-
 - 📫 How to reach me **jessicamo92@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jessica-mo-29508a85/](https://www.linkedin.com/in/jessica-mo-29508a85/)
